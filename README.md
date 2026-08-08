@@ -4,11 +4,13 @@
 
 ### 📊 Data Enthusiast | Data Science | AI & ML
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Enthusiast+%7C+Data+Science+%7C+AI+%26+ML;Turning+Raw+Data+into+Meaningful+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Real-World+Data+Projects;Learning+%7C+Building+%7C+Improving+Every+Day" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=820&lines=Data+Enthusiast+%7C+Data+Science+%7C+AI+%26+ML;Turning+Raw+Data+into+Meaningful+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Real-World+Data+Projects;Learning+%7C+Building+%7C+Improving+Every+Day" alt="Typing SVG"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
+<table>
+<tr>
+<td>
 
 ## 🧑‍💻 About Me
 
@@ -28,9 +30,10 @@ machine learning, and extracting actionable insights**.
 - 🧠 Continuously learning and building practical projects
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
-# 🛠️ Tech Stack
 
-## 🐍 Programming & Data Science
+## 🛠️ Tech Stack
+
+### 🐍 Programming & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -42,7 +45,7 @@ machine learning, and extracting actionable insights**.
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-## 🗄️ Databases & Data Platforms
+### 🗄️ Databases & Data Platforms
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -51,7 +54,7 @@ machine learning, and extracting actionable insights**.
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 </p>
 
-## 📊 Analytics & Visualization
+### 📊 Analytics & Visualization
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -59,7 +62,7 @@ machine learning, and extracting actionable insights**.
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-## 🔧 Development & Tools
+### 🔧 Development & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -72,9 +75,9 @@ machine learning, and extracting actionable insights**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📊 Customer Sales Analysis
+### 📊 Customer Sales Analysis
 
 **Python • Pandas • SQL • Power BI**
 
@@ -89,7 +92,7 @@ machine learning, and extracting actionable insights**.
 
 ---
 
-## 💳 Credit Card Fraud Detection
+### 💳 Credit Card Fraud Detection
 
 **Python • Pandas • NumPy • Scikit-learn • Machine Learning**
 
@@ -101,12 +104,11 @@ machine learning, and extracting actionable insights**.
 
 🔗 **[View Project](https://github.com/JaswanthRaj14/Credit_Card_Fraud_Detection)**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
+## 🚧 Currently Building
 
-# 🚧 Currently Building
-
-## 📊 SaaS Product Analytics
+### 📊 SaaS Product Analytics
 
 > An end-to-end analytics project focused on understanding SaaS user behaviour, product engagement, revenue, retention, and churn — and applying machine learning to generate predictive insights.
 
@@ -133,9 +135,9 @@ machine learning, and extracting actionable insights**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
-### 🏅 Certifications
+## 🏅 Certifications
 
-## ☁️ AWS Academy Graduate — AWS Academy Cloud Foundations
+### ☁️ AWS Academy Graduate — AWS Academy Cloud Foundations
 
 **AWS Academy**
 
@@ -145,7 +147,7 @@ machine learning, and extracting actionable insights**.
 
 ---
 
-## 🤖 Google AI Essentials
+### 🤖 Google AI Essentials
 
 **Google • Coursera**
 
@@ -155,7 +157,7 @@ machine learning, and extracting actionable insights**.
 
 ---
 
-## 📊 Data Analytics and Visualization Job Simulation
+### 📊 Data Analytics and Visualization Job Simulation
 
 **Accenture • Forage**
 
@@ -165,7 +167,7 @@ machine learning, and extracting actionable insights**.
 
 ---
 
-## 📈 Data Analytics Job Simulation
+### 📈 Data Analytics Job Simulation
 
 **Deloitte • Forage**
 
@@ -175,8 +177,17 @@ machine learning, and extracting actionable insights**.
 
 ---
 
+### 📊 Introduction to Career Skills in Data Analytics
 
-## 📊 Data Visualisation: Empowering Business with Effective Insights
+**LinkedIn Learning**
+
+📅 January 3, 2025
+
+`Data Analytics` • `Tech Career Skills`
+
+---
+
+### 📊 Data Visualisation: Empowering Business with Effective Insights
 
 **Tata • Forage**
 
@@ -186,42 +197,39 @@ machine learning, and extracting actionable insights**.
 
 ---
 
-## 🤖 Machine Learning I
+### 🤖 Machine Learning I
 
 **Columbia+**
 
 📅 July 29, 2026
 
-`Machine Learning Concepts` • `Algorithms`
-
 ---
 
-## 🧠 5-Day AI Agents Intensive Course with Google
+### 🧠 5-Day AI Agents Intensive Course with Google
 
 **Kaggle × Google**
 
 📅 December 18, 2025
-`AI Agent` • `Work Flow` 
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
-# 📚 Currently Learning
 
-<table>
+## 📚 Currently Learning
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-## 🌍 AI/ML for Geodata Analysis
+### 🌍 AI/ML for Geodata Analysis
 
-Exploring the application of **Artificial Intelligence and Machine Learning techniques to geospatial data and analysis**.
+Exploring the application of **AI and Machine Learning techniques to geospatial data and analysis**.
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🤖 Oracle Agentic AI Functions
+### 🤖 Oracle Agentic AI Functions
 
-Learning **Oracle's agentic AI capabilities and functions** to understand how AI agents can work with data and applications.
+Learning **Oracle Agentic AI capabilities and functions** and how they can be applied to intelligent workflows.
 
 </td>
 </tr>
@@ -229,17 +237,17 @@ Learning **Oracle's agentic AI capabilities and functions** to understand how AI
 <tr>
 <td width="50%" valign="top">
 
-## ☁️ OCI Foundations Associate
+### ☁️ OCI Foundations Associate
 
-Building foundational knowledge of **Oracle Cloud Infrastructure (OCI)** and cloud concepts.
+Building foundational knowledge of **Oracle Cloud Infrastructure (OCI)** and cloud computing concepts.
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🗄️ MySQL 8.0 Database Administration Professional
+### 🗄️ MySQL 8.0 Database Administration Professional
 
-Strengthening my knowledge of **MySQL 8.0 database administration and management**.
+Strengthening knowledge of **MySQL 8.0 database administration, configuration, management, and operations**.
 
 </td>
 </tr>
@@ -247,9 +255,9 @@ Strengthening my knowledge of **MySQL 8.0 database administration and management
 <tr>
 <td colspan="2" align="center">
 
-## 🧠 Machine Learning & AI Concepts
+### 🧠 Machine Learning & AI Concepts
 
-Strengthening the fundamentals of **Machine Learning, Artificial Intelligence, model development, and intelligent systems**.
+Strengthening my understanding of **core Machine Learning and Artificial Intelligence concepts**, including model development and intelligent systems.
 
 </td>
 </tr>
@@ -264,17 +272,29 @@ Strengthening the fundamentals of **Machine Learning, Artificial Intelligence, m
 <a href="https://github.com/JaswanthRaj14">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jaswanthrajramjaaly/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:ramjaalyjaswanthraj@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
+<br>
+
+<div align="center">
+
 ### 💡 Turning Data Into Insights, One Project at a Time.
+
+<br>
 
 **Thanks for visiting my profile! 🚀**
 
 </div>
+
+</td>
+</tr>
+</table>
