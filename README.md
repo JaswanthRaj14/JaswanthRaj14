@@ -8,8 +8,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 ## 🧑‍💻 About Me
 
 I'm a Computer Science Engineering graduate passionate about
