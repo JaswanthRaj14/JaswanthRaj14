@@ -218,7 +218,7 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 ## SaaS Product Analytics
 
-> **An end-to-end analytics project that transforms SaaS product data into actionable business insights and predictive signals.**
+> An end-to-end analytics project that transforms SaaS product data into actionable business insights and predictive signals.
 
 ### 🏗️ Project Architecture
 
@@ -237,27 +237,27 @@ I enjoy working across the complete data lifecycle — from **data collection an
   },
   "flowchart": {
     "curve": "linear",
-    "nodeSpacing": 35,
-    "rankSpacing": 45,
-    "padding": 15
+    "nodeSpacing": 25,
+    "rankSpacing": 35,
+    "padding": 10
   }
 }}%%
 
 flowchart LR
 
-    A["📥 DATA SOURCES<br/><br/>Users<br/>Subscriptions<br/>Product Events<br/>Transactions"]
+    A["📥 DATA SOURCES<br/><br/>Users<br/>Subscriptions<br/>Events<br/>Transactions"]
 
-    B["🗄️ DATA STORAGE<br/><br/>CSV / Excel<br/>MySQL / PostgreSQL<br/>MongoDB"]
+    B["🗄️ DATA STORAGE<br/><br/>CSV / Excel<br/>MySQL<br/>PostgreSQL<br/>MongoDB"]
 
-    C["🧹 DATA PREPARATION<br/><br/>Cleaning<br/>Validation<br/>Duplicates<br/>Missing Values<br/>Feature Creation"]
+    C["🧹 DATA PREPARATION<br/><br/>Cleaning<br/>Validation<br/>Missing Values<br/>Duplicates<br/>Feature Creation"]
 
-    D["🔎 ANALYTICS ENGINE<br/><br/>Python + Pandas<br/>SQL + Statistics<br/>EDA<br/>Product Metrics"]
+    D["🔎 ANALYTICS<br/><br/>Python<br/>Pandas<br/>SQL<br/>Statistics<br/>EDA"]
 
-    E["📊 BUSINESS INTELLIGENCE<br/><br/>Power BI<br/>KPIs<br/>Retention<br/>Revenue<br/>Churn"]
+    E["📊 BUSINESS INTELLIGENCE<br/><br/>Power BI<br/>KPIs<br/>Revenue<br/>Retention<br/>Churn"]
 
-    F["🤖 PREDICTIVE LAYER<br/><br/>Scikit-learn<br/>Feature Engineering<br/>Churn Prediction<br/>Model Evaluation"]
+    F["🤖 MACHINE LEARNING<br/><br/>Scikit-learn<br/>Feature Engineering<br/>Churn Prediction<br/>Model Evaluation"]
 
-    G["🎯 BUSINESS OUTCOMES<br/><br/>Customer Insights<br/>Risk Identification<br/>Growth Opportunities<br/>Data-driven Decisions"]
+    G["🎯 BUSINESS OUTCOMES<br/><br/>Customer Insights<br/>Risk Identification<br/>Growth Opportunities<br/>Better Decisions"]
 
     A --> B
     B --> C
