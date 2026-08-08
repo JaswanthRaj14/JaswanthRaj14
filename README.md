@@ -26,8 +26,7 @@ machine learning, and extracting actionable insights**.
 - 🤖 Exploring Machine Learning, AI and Agentic AI
 - 🧠 Continuously learning and building practical projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 # 🛠️ Tech Stack
 
 ### 🐍 Programming & Data Science
@@ -70,8 +69,7 @@ machine learning, and extracting actionable insights**.
 <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 # 🚀 Featured Projects
 
 ## 📊 Customer Sales Analysis
@@ -130,8 +128,7 @@ machine learning, and extracting actionable insights**.
 
 > Build a realistic end-to-end SaaS analytics project that demonstrates how raw business data can be transformed into **clean data, meaningful insights, predictive models, and actionable business decisions**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 # 🏅 Certifications
 
 ### ☁️ AWS Academy Graduate — AWS Academy Cloud Foundations
@@ -174,15 +171,6 @@ machine learning, and extracting actionable insights**.
 
 ---
 
-### 📊 Introduction to Career Skills in Data Analytics
-
-**LinkedIn Learning**
-
-📅 January 3, 2025
-
-`Data Analytics` • `Tech Career Skills`
-
----
 
 ### 📊 Data Visualisation: Empowering Business with Effective Insights
 
@@ -199,7 +187,6 @@ machine learning, and extracting actionable insights**.
 **Columbia+**
 
 📅 July 29, 2026
-
 ---
 
 ### 🧠 5-Day AI Agents Intensive Course with Google
@@ -208,8 +195,7 @@ machine learning, and extracting actionable insights**.
 
 📅 December 18, 2025
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 # 📚 Currently Learning
 
 <table>
@@ -260,8 +246,7 @@ Strengthening the fundamentals of **Machine Learning, Artificial Intelligence, m
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 # 📬 Let's Connect
 
 <div align="center">
