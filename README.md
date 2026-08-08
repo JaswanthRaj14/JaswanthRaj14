@@ -4,56 +4,34 @@
 
 ### 📊 Data Enthusiast | Data Science | AI & ML
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Data+Enthusiast+%7C+Data+Science+%7C+AI+%26+ML;Turning+Raw+Data+into+Meaningful+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Real-World+Data+Projects;Learning+%7C+Building+%7C+Improving+Every+Day" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Enthusiast+%7C+Data+Science+%7C+AI+%26+ML;Turning+Raw+Data+into+Meaningful+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Real-World+Data+Projects;Learning+%7C+Building+%7C+Improving+Every+Day" alt="Typing SVG"/>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
 
-<!-- ===================== ABOUT ME ===================== -->
+## 🧑‍💻 About Me
 
-<table width="100%" border="1" bordercolor="#38BDF8" cellpadding="18" cellspacing="0">
-<tr>
-<td>
-
-<h2>🧑‍💻 About Me</h2>
-
-<p>
 I'm a Computer Science Engineering graduate passionate about
-<b>Data Analytics, Data Science, Artificial Intelligence, and Machine Learning</b>.
-</p>
+**Data Analytics, Data Science, Artificial Intelligence, and Machine Learning**.
 
-<p>
-I enjoy working across the complete data lifecycle — from
-<b>data collection and cleaning to exploratory analysis, visualization,
-statistical analysis, machine learning, and business insights</b>.
-</p>
+I enjoy working across the complete data lifecycle — from **data collection
+and cleaning to exploratory analysis, visualization, statistical analysis,
+machine learning, and extracting actionable insights**.
 
-<ul>
-<li>🎓 Computer Science Engineering — 2022–2026</li>
-<li>📊 Interested in Data Analytics & Data Science</li>
-<li>🐍 Building projects with Python and its data ecosystem</li>
-<li>🗄️ Working with SQL, relational and NoSQL databases</li>
-<li>📈 Creating analytical dashboards and data visualizations</li>
-<li>🤖 Exploring Machine Learning, AI and Agentic AI</li>
-<li>🧠 Continuously learning and building practical projects</li>
-</ul>
+- 🎓 Computer Science Engineering — 2022–2026
+- 📊 Interested in Data Analytics & Data Science
+- 🐍 Building data projects with Python and its data ecosystem
+- 🗄️ Working with SQL, relational and NoSQL databases
+- 📈 Creating analytical dashboards and data visualizations
+- 🤖 Exploring Machine Learning, AI and Agentic AI
+- 🧠 Continuously learning and building practical projects
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
 
-<br>
+# 🛠️ Tech Stack
 
-<!-- ===================== TECH STACK ===================== -->
-
-<table width="100%" border="1" bordercolor="#A78BFA" cellpadding="18" cellspacing="0">
-<tr>
-<td>
-
-<h2>🛠️ Tech Stack</h2>
-
-<h3>🐍 Programming & Data Science</h3>
+### 🐍 Programming & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -65,7 +43,7 @@ statistical analysis, machine learning, and business insights</b>.
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-<h3>🗄️ Databases & Data Platforms</h3>
+### 🗄️ Databases & Data Platforms
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -74,7 +52,7 @@ statistical analysis, machine learning, and business insights</b>.
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 </p>
 
-<h3>📊 Analytics & Visualization</h3>
+### 📊 Analytics & Visualization
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -82,7 +60,7 @@ statistical analysis, machine learning, and business insights</b>.
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-<h3>🔧 Development & Tools</h3>
+### 🔧 Development & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -93,371 +71,201 @@ statistical analysis, machine learning, and business insights</b>.
 <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"/>
 </p>
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
 
-<br>
+# 🚀 Featured Projects
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+## 📊 Customer Sales Analysis
 
-<table width="100%" border="1" bordercolor="#34D399" cellpadding="18" cellspacing="0">
-<tr>
-<td>
+**Python • Pandas • SQL • Power BI**
 
-<h2>🚀 Featured Projects</h2>
+- Analyzed **10,000+ sales records**.
+- Cleaned and transformed raw sales data.
+- Used SQL and Python to identify sales and customer trends.
+- Created business-focused KPIs and visualizations.
+- Built an interactive Power BI dashboard.
+- Generated actionable insights from customer and sales performance.
 
-<h3>📊 Customer Sales Analysis</h3>
+🔗 **[View Project](https://github.com/JaswanthRaj14/Customer_sales_Analysis)**
 
-<p><b>Python • Pandas • SQL • Power BI</b></p>
+---
 
-<ul>
-<li>Analyzed <b>10,000+ sales records</b> to understand customer and sales performance.</li>
-<li>Cleaned and transformed raw sales data for analysis.</li>
-<li>Used SQL and Python to identify sales trends and patterns.</li>
-<li>Created business-focused KPIs and visualizations.</li>
-<li>Built an interactive Power BI dashboard.</li>
-<li>Generated actionable insights from customer and sales performance.</li>
-</ul>
+## 💳 Credit Card Fraud Detection
 
-<p>
-🔗 <a href="https://github.com/JaswanthRaj14/Customer_sales_Analysis">
-<b>View Project →</b>
-</a>
-</p>
+**Python • Pandas • NumPy • Scikit-learn • Machine Learning**
 
-<hr>
+- Built a machine-learning solution for fraud detection.
+- Performed data preprocessing and feature preparation.
+- Applied classification techniques to transaction data.
+- Evaluated model performance using classification metrics.
+- Developed the project as a practical application of machine learning.
 
-<h3>💳 Credit Card Fraud Detection</h3>
+🔗 **[View Project](https://github.com/JaswanthRaj14/Credit_Card_Fraud_Detection)**
 
-<p><b>Python • Pandas • NumPy • Scikit-learn • Machine Learning</b></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
 
-<ul>
-<li>Built a machine-learning solution for detecting fraudulent transactions.</li>
-<li>Performed data preprocessing and feature preparation.</li>
-<li>Applied classification techniques to transaction data.</li>
-<li>Evaluated model performance using classification metrics.</li>
-<li>Developed the project as a practical application of machine learning.</li>
-</ul>
+# 🚧 Currently Building
 
-<p>
-🔗 <a href="https://github.com/JaswanthRaj14/Credit_Card_Fraud_Detection">
-<b>View Project →</b>
-</a>
-</p>
+## 📊 SaaS Product Analytics
 
-</td>
-</tr>
-</table>
+> An end-to-end analytics project focused on understanding SaaS user behaviour, product engagement, revenue, retention, and churn — and applying machine learning to generate predictive insights.
 
-<br>
+### 🔍 What I'm Working On
 
-<!-- ===================== CURRENT PROJECT ===================== -->
+- 📥 **Create a realistic SaaS dataset** containing users, subscriptions, product events, transactions, and customer information.
+- 🧹 **Perform data cleaning** by handling missing values, duplicates, inconsistent data types, and invalid records.
+- 🔎 **Perform exploratory data analysis (EDA)** to understand user behaviour, product usage, revenue patterns, and customer segments.
+- 📐 **Apply statistical analysis** to identify relationships, trends, and significant patterns in the data.
+- 🗄️ **Work with SQL and databases** to store, query, transform, and analyze the SaaS data.
+- 📊 **Define important SaaS metrics** such as revenue, customer activity, engagement, retention, and churn.
+- 📈 **Build business dashboards** using Power BI to communicate important product and customer insights.
+- 👥 **Analyze customer behaviour** and identify different user segments based on usage and engagement.
+- 🔄 **Analyze retention and churn** to understand why customers stay or leave the product.
+- ⚙️ **Perform feature engineering** to prepare meaningful features for machine learning.
+- 🤖 **Build machine learning models** to predict customer churn and other relevant business outcomes.
+- 📏 **Evaluate and compare models** using appropriate machine learning evaluation metrics.
+- 💡 **Translate analytical and ML results into business recommendations**.
+- 📝 **Document the complete project workflow** from raw data to final insights and predictions.
 
-<table width="100%" border="1" bordercolor="#F59E0B" cellpadding="18" cellspacing="0">
-<tr>
-<td>
+### 🎯 Project Goal
 
-<h2>🚧 Currently Building</h2>
+> Build a realistic end-to-end SaaS analytics project that demonstrates how raw business data can be transformed into **clean data, meaningful insights, predictive models, and actionable business decisions**.
 
-<h3>📊 SaaS Product Analytics</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
 
-<p>
-An end-to-end analytics project focused on understanding
-<b>SaaS user behaviour, product engagement, revenue, retention, and churn</b>
-and eventually applying machine learning to generate predictive insights.
-</p>
+# 🏅 Certifications
 
-<h3>🔍 What I'm Going to Do</h3>
+### ☁️ AWS Academy Graduate — AWS Academy Cloud Foundations
 
-<ol>
-
-<li>
-<b>📥 Create & Collect the Dataset</b>
-<br>
-Build a realistic SaaS dataset containing users, subscriptions,
-product events, transactions, plans, and customer activity.
-</li>
-
-<br>
-
-<li>
-<b>🧹 Data Cleaning & Quality</b>
-<br>
-Intentionally work with real-world data problems such as
-missing values, duplicate records, inconsistent formats,
-incorrect data types, and outliers.
-</li>
-
-<br>
-
-<li>
-<b>🗄️ Database Design</b>
-<br>
-Design relational tables, define relationships, create keys,
-and load the cleaned data into PostgreSQL/MySQL for analysis.
-</li>
-
-<br>
-
-<li>
-<b>🔎 Exploratory Data Analysis</b>
-<br>
-Use Python, Pandas, NumPy, Matplotlib, and Seaborn to
-discover patterns, trends, relationships, and anomalies.
-</li>
-
-<br>
-
-<li>
-<b>📊 SaaS Business Metrics</b>
-<br>
-Analyze important product metrics such as
-Revenue, ARPU, Customer Lifetime Value, Retention,
-Churn, Conversion, Engagement, and Customer Activity.
-</li>
-
-<br>
-
-<li>
-<b>📈 Business Intelligence</b>
-<br>
-Create a Power BI dashboard to monitor product performance,
-customer behaviour, revenue trends, retention, and churn.
-</li>
-
-<br>
-
-<li>
-<b>📐 Statistical Analysis</b>
-<br>
-Apply statistical concepts to understand customer behaviour,
-identify meaningful patterns, and support data-driven conclusions.
-</li>
-
-<br>
-
-<li>
-<b>🤖 Machine Learning</b>
-<br>
-Build predictive models using Scikit-learn, including feature
-engineering, model training, evaluation, and churn prediction.
-</li>
-
-<br>
-
-<li>
-<b>🎯 Business Recommendations</b>
-<br>
-Translate analytical and predictive results into practical
-recommendations for improving customer retention,
-engagement, and business growth.
-</li>
-
-<br>
-
-<li>
-<b>🚀 End-to-End Project Delivery</b>
-<br>
-Document the complete workflow from raw data to analysis,
-visualization, machine learning, and final business insights.
-</li>
-
-</ol>
-
-<h3>🎯 Project Goal</h3>
-
-<blockquote>
-Build a realistic SaaS analytics project that demonstrates how
-raw business data can be transformed into meaningful insights,
-predictive models, and data-driven decisions.
-</blockquote>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== CERTIFICATIONS ===================== -->
-
-<table width="100%" border="1" bordercolor="#38BDF8" cellpadding="18" cellspacing="0">
-<tr>
-<td>
-
-<h2>🏅 Certifications</h2>
-
-<h3>☁️ AWS Academy Graduate — AWS Academy Cloud Foundations</h3>
-
-<b>AWS Academy</b>
-
-<br><br>
+**AWS Academy**
 
 📅 February 27, 2025 • 20 Hours
 
-<br><br>
+🔗 **[Verify Credential](https://www.credly.com/go/nbRlO4bB)**
 
-🔗 <a href="https://www.credly.com/go/nbRlO4bB">
-<b>Verify Credential →</b>
-</a>
+---
 
-<hr>
+### 🤖 Google AI Essentials
 
-<h3>🤖 Google AI Essentials</h3>
-
-<b>Google • Coursera</b>
-
-<br><br>
+**Google • Coursera**
 
 📅 February 7, 2025
 
-<br><br>
+🔗 **[Verify Credential](https://coursera.org/verify/G44QEE6IJQKK)**
 
-🔗 <a href="https://coursera.org/verify/G44QEE6IJQKK">
-<b>Verify Credential →</b>
-</a>
+---
 
-<hr>
+### 📊 Data Analytics and Visualization Job Simulation
 
-<h3>📊 Data Analytics and Visualization Job Simulation</h3>
-
-<b>Accenture • Forage</b>
-
-<br><br>
+**Accenture • Forage**
 
 📅 January 1, 2025
 
-<br><br>
+`Data Cleaning` • `Data Modeling` • `Data Visualization` • `Storytelling`
 
-<code>Data Cleaning</code>
-<code>Data Modeling</code>
-<code>Data Visualization</code>
-<code>Storytelling</code>
+---
 
-<hr>
+### 📈 Data Analytics Job Simulation
 
-<h3>📈 Data Analytics Job Simulation</h3>
-
-<b>Deloitte • Forage</b>
-
-<br><br>
+**Deloitte • Forage**
 
 📅 February 10, 2026
 
-<br><br>
+`Data Analysis` • `Forensic Technology`
 
-<code>Data Analysis</code>
-<code>Forensic Technology</code>
+---
 
-<hr>
+### 📊 Introduction to Career Skills in Data Analytics
 
-<h3>📊 Introduction to Career Skills in Data Analytics</h3>
-
-<b>LinkedIn Learning</b>
-
-<br><br>
+**LinkedIn Learning**
 
 📅 January 3, 2025
 
-<br><br>
+`Data Analytics` • `Tech Career Skills`
 
-<code>Data Analytics</code>
-<code>Tech Career Skills</code>
+---
 
-<hr>
+### 📊 Data Visualisation: Empowering Business with Effective Insights
 
-<h3>📊 Data Visualisation: Empowering Business with Effective Insights</h3>
-
-<b>Tata • Forage</b>
-
-<br><br>
+**Tata • Forage**
 
 📅 January 5, 2025
 
-<br><br>
+`Data Visualization` • `Visual Storytelling` • `Business Insights`
 
-<code>Data Visualization</code>
-<code>Visual Storytelling</code>
-<code>Business Insights</code>
+---
 
-<hr>
+### 🤖 Machine Learning I
 
-<h3>🤖 Machine Learning I</h3>
-
-<b>Columbia+</b>
-
-<br><br>
+**Columbia+**
 
 📅 July 29, 2026
 
-<hr>
+---
 
-<h3>🧠 5-Day AI Agents Intensive Course with Google</h3>
+### 🧠 5-Day AI Agents Intensive Course with Google
 
-<b>Kaggle × Google</b>
-
-<br><br>
+**Kaggle × Google**
 
 📅 December 18, 2025
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
+
+# 📚 Currently Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 AI/ML for Geodata Analysis
+
+Exploring the application of **Artificial Intelligence and Machine Learning techniques to geospatial data and analysis**.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Oracle Agentic AI Functions
+
+Learning **Oracle's agentic AI capabilities and functions** to understand how AI agents can work with data and applications.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ OCI Foundations Associate
+
+Building foundational knowledge of **Oracle Cloud Infrastructure (OCI)** and cloud concepts.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄️ MySQL 8.0 Database Administration Professional
+
+Strengthening my knowledge of **MySQL 8.0 database administration and management**.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🧠 Machine Learning & AI Concepts
+
+Strengthening the fundamentals of **Machine Learning, Artificial Intelligence, model development, and intelligent systems**.
+
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
 
-<!-- ===================== CURRENT LEARNING ===================== -->
+# 📬 Let's Connect
 
-<table width="100%" border="1" bordercolor="#A855F7" cellpadding="18" cellspacing="0">
-<tr>
-<td>
-
-<h2>📚 Currently Learning</h2>
-
-<table width="100%" cellpadding="10">
-
-<tr>
-<td width="35%"><b>🌍 AI/ML for Geodata Analysis</b></td>
-<td>Exploring machine learning applications with geospatial data</td>
-</tr>
-
-<tr>
-<td><b>🤖 Oracle Agentic AI Functions</b></td>
-<td>Learning agentic AI capabilities and workflows</td>
-</tr>
-
-<tr>
-<td><b>☁️ OCI Foundations Associate</b></td>
-<td>Building foundational knowledge of Oracle Cloud Infrastructure</td>
-</tr>
-
-<tr>
-<td><b>🗄️ MySQL 8.0 Database Administration Professional</b></td>
-<td>Strengthening MySQL database administration skills</td>
-</tr>
-
-<tr>
-<td><b>🧠 Machine Learning & AI Concepts</b></td>
-<td>Strengthening core machine learning and AI concepts</td>
-</tr>
-
-</table>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== LET'S CONNECT ===================== -->
-
-<table width="100%" border="1" bordercolor="#EC4899" cellpadding="18" cellspacing="0">
-<tr>
-<td align="center">
-
-<h2>📬 Let's Connect</h2>
-
-<br>
+<div align="center">
 
 <a href="https://github.com/JaswanthRaj14">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -475,11 +283,9 @@ predictive models, and data-driven decisions.
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
 
 <div align="center">
 
