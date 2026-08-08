@@ -4,7 +4,7 @@
 
 ### 📊 Data Enthusiast | Data Science | AI & ML
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Data+Enthusiast+%7C+Data+Science+%7C+AI+%26+ML;Turning+Raw+Data+into+Meaningful+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Real-World+Data+Projects;Learning+%7C+Building+%7C+Improving+Every+Day" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Data+Enthusiast+%7C+Data+Science+%7C+AI+%26+ML;Turning+Raw+Data+into+Meaningful+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Real-World+Data+Projects;Learning+%7C+Building+%7C+Improving+Every+Day" alt="Typing SVG"/>
 
 </div>
 
@@ -22,8 +22,8 @@ I enjoy working across the complete data lifecycle — from **data collection an
 - 🗄️ Working with SQL, relational and NoSQL databases
 - 📈 Creating interactive dashboards and analytical reports
 - 🤖 Exploring Machine Learning and Artificial Intelligence
-- 🧠 Continuously strengthening Statistics, ML and Data Engineering fundamentals
-- 🚀 Building practical projects to become industry-ready
+- 🧠 Strengthening Statistics, ML and Data Engineering fundamentals
+- 🚀 Building practical projects to solve real-world problems
 
 ---
 
@@ -156,7 +156,6 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 📅 January 1, 2025
 
-Skills:
 `Data Cleaning` • `Data Modeling` • `Data Visualization` • `Storytelling` • `Client Presentation`
 
 ---
@@ -167,7 +166,6 @@ Skills:
 
 📅 February 10, 2026
 
-Skills:
 `Data Analysis` • `Forensic Technology`
 
 ---
@@ -178,7 +176,6 @@ Skills:
 
 📅 January 3, 2025
 
-Skills:
 `Data Analytics` • `Tech Career Skills`
 
 ---
@@ -189,7 +186,6 @@ Skills:
 
 📅 January 5, 2025
 
-Skills:
 `Business Scenarios` • `Data Visualization` • `Visual Storytelling` • `Insights & Analysis`
 
 ---
@@ -210,73 +206,62 @@ Skills:
 
 ---
 
-# 🧭 My Data Science Learning Path
+# 🧭 My Data Science Journey
 
-```text
-                    ┌─────────────────────┐
-                    │   DATA FOUNDATION   │
-                    │                     │
-                    │ Python • SQL • Excel│
-                    │ R • Git • GitHub     │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │    DATA ANALYSIS    │
-                    │                     │
-                    │ NumPy • Pandas      │
-                    │ Data Cleaning       │
-                    │ EDA • Statistics    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ DATA VISUALIZATION  │
-                    │                     │
-                    │ Matplotlib • Seaborn│
-                    │ Power BI • Tableau  │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      DATABASES      │
-                    │                     │
-                    │ MySQL • PostgreSQL  │
-                    │ MongoDB • BigQuery  │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   MACHINE LEARNING  │
-                    │                     │
-                    │ Scikit-learn        │
-                    │ Supervised Learning │
-                    │ Unsupervised ML     │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   DATA SCIENCE      │
-                    │                     │
-                    │ Feature Engineering │
-                    │ Model Evaluation    │
-                    │ End-to-End Projects │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      AI & ML        │
-                    │                     │
-                    │ Deep Learning       │
-                    │ Generative AI       │
-                    │ AI Agents           │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │  DATA ENGINEERING   │
-                    │                     │
-                    │ Cloud • Pipelines   │
-                    │ Big Data • Spark    │
-                    │ Data Warehousing    │
-                    └─────────────────────┘
+<div align="center">
+
+### From Raw Data → Analytics → Machine Learning → Intelligent Solutions
+
+</div>
+
+```mermaid
+flowchart TB
+
+    A["📥 DATA SOURCES<br/><br/>CSV • Excel • APIs<br/>User Data • Transaction Data<br/>Product & Business Data"]
+
+    B["🧱 DATA FOUNDATION<br/><br/>Python • SQL • R<br/>MySQL • PostgreSQL<br/>MongoDB • BigQuery"]
+
+    C["🧹 DATA PROCESSING<br/><br/>Data Cleaning<br/>Missing Values • Duplicates<br/>Outliers • Transformation<br/>Pandas • NumPy"]
+
+    D["🔎 EXPLORATORY ANALYTICS<br/><br/>EDA • Statistics<br/>Probability • Correlation<br/>Hypothesis Testing<br/>Feature Understanding"]
+
+    E["📊 ANALYTICS & VISUALIZATION<br/><br/>Matplotlib • Seaborn<br/>Power BI • Tableau<br/>Dashboards • Storytelling"]
+
+    F["🚀 CURRENT PROJECT<br/><br/>SaaS Product Analytics<br/>User Behaviour • Product Usage<br/>Revenue • Retention • Churn<br/>Business KPI Analysis"]
+
+    G["🤖 MACHINE LEARNING<br/><br/>Scikit-learn<br/>Regression • Classification<br/>Clustering • Feature Engineering<br/>Model Evaluation"]
+
+    H["🧠 DATA SCIENCE<br/><br/>Predictive Analytics<br/>Experimentation<br/>Business Problem Solving<br/>End-to-End Projects"]
+
+    I["✨ AI & ML<br/><br/>Generative AI<br/>AI Applications<br/>AI Agents<br/>Intelligent Data Products"]
+
+    J["⚙️ DATA ENGINEERING<br/><br/>Data Pipelines<br/>Data Warehousing<br/>Cloud • Big Data<br/>Production Data Systems"]
+
+    K["🛠️ DEVELOPMENT WORKFLOW<br/><br/>Git • GitHub<br/>VS Code • PyCharm<br/>Jupyter • DataGrip<br/>Reproducible Projects"]
+
+    L["🎯 END GOAL<br/><br/>Build Production-Ready<br/>Data & AI Solutions<br/>that Solve Real Business Problems"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+
+    C --> F
+    D --> F
+    E --> F
+
+    F --> G
+    G --> H
+    H --> I
+
+    B --> J
+    C --> J
+    J --> H
+
+    K --> C
+    K --> G
+    K --> H
+
+    H --> L
+    I --> L
+    J --> L
