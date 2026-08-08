@@ -208,77 +208,235 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 # 🧭 My Data Science Journey
 
-<div align="center">
+<h2>🚀 Currently Building</h2>
 
-### From Raw Data → Analytics → Machine Learning → Intelligent Solutions
+<h3>📊 SaaS Product Analytics</h3>
 
-# 🧠 Data & AI Learning Architecture
+<p>
+  An end-to-end analytics project focused on transforming SaaS product data
+  into actionable business insights and predictive intelligence.
+</p>
 
-# 🚀 Currently Building
+<br>
 
-## SaaS Product Analytics
+<table width="100%" cellpadding="14" cellspacing="8" border="0">
 
-> An end-to-end analytics project that transforms SaaS product data into actionable business insights and predictive signals.
+<tr>
+<td colspan="4" align="center" bgcolor="#111827">
 
-### 🏗️ Project Architecture
+<font color="#38BDF8"><b>📊 SaaS PRODUCT ANALYTICS</b></font>
 
-```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "background": "#0D1117",
-    "primaryColor": "#161B22",
-    "primaryTextColor": "#F0F6FC",
-    "primaryBorderColor": "#30363D",
-    "lineColor": "#58A6FF",
-    "secondaryColor": "#161B22",
-    "tertiaryColor": "#161B22",
-    "fontFamily": "Arial"
-  },
-  "flowchart": {
-    "curve": "linear",
-    "nodeSpacing": 25,
-    "rankSpacing": 35,
-    "padding": 10
-  }
-}}%%
+<br>
 
-flowchart LR
+<sub>
+From raw product data → analytics → predictions → business decisions
+</sub>
 
-    A["📥 DATA SOURCES<br/><br/>Users<br/>Subscriptions<br/>Events<br/>Transactions"]
+</td>
+</tr>
 
-    B["🗄️ DATA STORAGE<br/><br/>CSV / Excel<br/>MySQL<br/>PostgreSQL<br/>MongoDB"]
+<tr>
 
-    C["🧹 DATA PREPARATION<br/><br/>Cleaning<br/>Validation<br/>Missing Values<br/>Duplicates<br/>Feature Creation"]
+<td width="25%" align="center" valign="top" bgcolor="#0F172A">
 
-    D["🔎 ANALYTICS<br/><br/>Python<br/>Pandas<br/>SQL<br/>Statistics<br/>EDA"]
+<font color="#38BDF8"><b>📥 DATA</b></font>
 
-    E["📊 BUSINESS INTELLIGENCE<br/><br/>Power BI<br/>KPIs<br/>Revenue<br/>Retention<br/>Churn"]
+<br><br>
 
-    F["🤖 MACHINE LEARNING<br/><br/>Scikit-learn<br/>Feature Engineering<br/>Churn Prediction<br/>Model Evaluation"]
+👤 Users<br><br>
+📦 Subscriptions<br><br>
+⚡ Product Events<br><br>
+💳 Transactions
 
-    G["🎯 BUSINESS OUTCOMES<br/><br/>Customer Insights<br/>Risk Identification<br/>Growth Opportunities<br/>Better Decisions"]
+</td>
 
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    D --> F
-    E --> G
-    F --> G
+<td width="25%" align="center" valign="top" bgcolor="#0F172A">
 
-    classDef source fill:#172033,stroke:#58A6FF,color:#F0F6FC,stroke-width:2px;
-    classDef storage fill:#172033,stroke:#79C0FF,color:#F0F6FC,stroke-width:2px;
-    classDef process fill:#172033,stroke:#56D4DD,color:#F0F6FC,stroke-width:2px;
-    classDef analytics fill:#211A3A,stroke:#A371F7,color:#F0F6FC,stroke-width:2px;
-    classDef bi fill:#172B26,stroke:#3FB950,color:#F0F6FC,stroke-width:2px;
-    classDef ml fill:#2B1D2F,stroke:#D2A8FF,color:#F0F6FC,stroke-width:2px;
-    classDef outcome fill:#332A12,stroke:#E3B341,color:#F0F6FC,stroke-width:2px;
+<font color="#60A5FA"><b>🗄️ STORAGE</b></font>
 
-    class A source;
-    class B storage;
-    class C process;
-    class D analytics;
-    class E bi;
-    class F ml;
-    class G outcome;
+<br><br>
+
+🐘 PostgreSQL<br><br>
+🐬 MySQL<br><br>
+🍃 MongoDB<br><br>
+📄 CSV / Excel
+
+</td>
+
+<td width="25%" align="center" valign="top" bgcolor="#0F172A">
+
+<font color="#22D3EE"><b>🧹 DATA PREPARATION</b></font>
+
+<br><br>
+
+🧽 Data Cleaning<br><br>
+✅ Validation<br><br>
+⚠️ Missing Values<br><br>
+♻️ Duplicates<br><br>
+🔧 Feature Creation
+
+</td>
+
+<td width="25%" align="center" valign="top" bgcolor="#0F172A">
+
+<font color="#A78BFA"><b>🔎 ANALYTICS</b></font>
+
+<br><br>
+
+🐍 Python<br><br>
+🐼 Pandas<br><br>
+🗄️ SQL<br><br>
+📐 Statistics<br><br>
+🔍 EDA
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="4" align="center">
+
+⬇️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⬇️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⬇️
+
+</td>
+</tr>
+
+<tr>
+
+<td colspan="4" align="center" bgcolor="#111827">
+
+<font color="#34D399"><b>📊 BUSINESS ANALYTICS</b></font>
+
+<br><br>
+
+Revenue &nbsp; • &nbsp;
+Retention &nbsp; • &nbsp;
+Churn &nbsp; • &nbsp;
+Engagement &nbsp; • &nbsp;
+Customer KPIs
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="4" align="center">
+
+⬇️
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top" bgcolor="#111827">
+
+<font color="#C084FC"><b>🤖 MACHINE LEARNING</b></font>
+
+<br><br>
+
+⚙️ Feature Engineering
+
+<br>↓<br>
+
+🧠 Scikit-learn
+
+<br>↓<br>
+
+📈 Churn Prediction
+
+<br>↓<br>
+
+🎯 Model Evaluation
+
+</td>
+
+<td width="50%" align="center" valign="top" bgcolor="#111827">
+
+<font color="#F59E0B"><b>🎯 BUSINESS OUTCOMES</b></font>
+
+<br><br>
+
+👥 Customer Insights
+
+<br>↓<br>
+
+⚠️ Risk Identification
+
+<br>↓<br>
+
+📈 Growth Opportunities
+
+<br>↓<br>
+
+💡 Data-Driven Decisions
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="4" align="center">
+
+<br>
+
+<font color="#64748B">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</font>
+
+<br><br>
+
+<b>🔄 END-TO-END FLOW</b>
+
+<br><br>
+
+<font color="#38BDF8">
+RAW DATA
+</font>
+
+&nbsp; → &nbsp;
+
+<font color="#22D3EE">
+CLEAN & VALIDATE
+</font>
+
+&nbsp; → &nbsp;
+
+<font color="#A78BFA">
+ANALYZE
+</font>
+
+&nbsp; → &nbsp;
+
+<font color="#34D399">
+INSIGHTS
+</font>
+
+&nbsp; → &nbsp;
+
+<font color="#C084FC">
+PREDICT
+</font>
+
+&nbsp; → &nbsp;
+
+<font color="#F59E0B">
+DECIDE
+</font>
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+### 🎯 Project Goal
+
+> **Build a realistic SaaS analytics system that demonstrates the complete journey from raw product data to business insights and predictive analytics.**
