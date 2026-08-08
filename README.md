@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/preview.gif" width="100%" alt="Welcome"/>
-
 # 👋 Hi, I'm Jaswanth Raj Ramjaaly
 
-### 📊 Data Analyst | Aspiring Data Scientist | Python & SQL Enthusiast
+### 📊 Data Enthusiast | Data Science | AI & ML
 
-<img src="https://komarev.com/ghpvc/?username=JaswanthRaj14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Aspiring+Data+Scientist;Turning+Raw+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Building+Real-World+Data+Projects;Learning+%7C+Building+%7C+Improving+Every+Day" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Data+Enthusiast+%7C+Data+Science+%7C+AI+%26+ML;Turning+Raw+Data+into+Meaningful+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Real-World+Data+Projects;Learning+%7C+Building+%7C+Improving+Every+Day" alt="Typing SVG"/>
 
 </div>
 
@@ -18,16 +12,17 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Jaswanth Raj Ramjaaly**, a Computer Science Engineering graduate passionate about **Data Analytics, Data Science, and Machine Learning**.
+I'm a Computer Science Engineering graduate passionate about **Data Analytics, Data Science, Artificial Intelligence, and Machine Learning**.
 
-I enjoy working across the complete data lifecycle — from **data collection and cleaning to exploratory analysis, visualization, statistical analysis, and machine learning**.
+I enjoy working across the complete data lifecycle — from **data collection and cleaning to exploratory analysis, visualization, statistical analysis, machine learning, and extracting actionable insights**.
 
 - 🎓 Computer Science Engineering — 2022–2026
-- 📊 Focused on Data Analytics & Data Science
-- 🐍 Building projects with Python, Pandas, NumPy & Scikit-learn
-- 🗄️ Working with SQL & PostgreSQL
-- 📈 Creating interactive dashboards with Power BI & DAX
-- 🧠 Strengthening Statistics, Machine Learning & Data Engineering fundamentals
+- 📊 Passionate about Data Analytics & Data Science
+- 🐍 Building data projects with Python and its ecosystem
+- 🗄️ Working with SQL, relational and NoSQL databases
+- 📈 Creating interactive dashboards and analytical reports
+- 🤖 Exploring Machine Learning and Artificial Intelligence
+- 🧠 Continuously strengthening Statistics, ML and Data Engineering fundamentals
 - 🚀 Building practical projects to become industry-ready
 
 ---
@@ -38,17 +33,21 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Data Platforms
 
 <p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 </p>
 
 ### 📊 Analytics & Visualization
@@ -59,13 +58,15 @@ I enjoy working across the complete data lifecycle — from **data collection an
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-### 🔧 Tools
+### 🔧 Development & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"/>
 </p>
 
 ---
@@ -74,7 +75,7 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 ### 🏀 NBA Data Analysis
 
-**Python • Pandas • NumPy • PostgreSQL • Power BI**
+**Python • Pandas • PostgreSQL • Power BI**
 
 - Cleaned and preprocessed NBA datasets.
 - Performed exploratory data analysis.
@@ -133,8 +134,7 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 **AWS Academy**
 
-📅 February 27, 2025  
-⏱️ 20 hours
+📅 February 27, 2025 • 20 Hours
 
 🔗 [Verify Credential](https://www.credly.com/go/nbRlO4bB)
 
@@ -156,11 +156,8 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 📅 January 1, 2025
 
-Skills covered:
-- Project Understanding
-- Data Cleaning & Modeling
-- Data Visualization & Storytelling
-- Presenting to the Client
+Skills:
+`Data Cleaning` • `Data Modeling` • `Data Visualization` • `Storytelling` • `Client Presentation`
 
 ---
 
@@ -170,9 +167,8 @@ Skills covered:
 
 📅 February 10, 2026
 
-Skills covered:
-- Data Analysis
-- Forensic Technology
+Skills:
+`Data Analysis` • `Forensic Technology`
 
 ---
 
@@ -182,9 +178,8 @@ Skills covered:
 
 📅 January 3, 2025
 
-Skills covered:
-- Data Analytics
-- Tech Career Skills
+Skills:
+`Data Analytics` • `Tech Career Skills`
 
 ---
 
@@ -194,11 +189,8 @@ Skills covered:
 
 📅 January 5, 2025
 
-Skills covered:
-- Framing the Business Scenario
-- Choosing the Right Visuals
-- Creating Effective Visuals
-- Communicating Insights and Analysis
+Skills:
+`Business Scenarios` • `Data Visualization` • `Visual Storytelling` • `Insights & Analysis`
 
 ---
 
@@ -218,19 +210,73 @@ Skills covered:
 
 ---
 
-# 📚 Currently Learning
+# 🧭 My Data Science Learning Path
 
 ```text
-Python
-   ↓
-Advanced SQL
-   ↓
-Statistics & Probability
-   ↓
-Exploratory Data Analysis
-   ↓
-Machine Learning
-   ↓
-End-to-End Data Science
-   ↓
-Data Engineering Fundamentals
+                    ┌─────────────────────┐
+                    │   DATA FOUNDATION   │
+                    │                     │
+                    │ Python • SQL • Excel│
+                    │ R • Git • GitHub     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    DATA ANALYSIS    │
+                    │                     │
+                    │ NumPy • Pandas      │
+                    │ Data Cleaning       │
+                    │ EDA • Statistics    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ DATA VISUALIZATION  │
+                    │                     │
+                    │ Matplotlib • Seaborn│
+                    │ Power BI • Tableau  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      DATABASES      │
+                    │                     │
+                    │ MySQL • PostgreSQL  │
+                    │ MongoDB • BigQuery  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   MACHINE LEARNING  │
+                    │                     │
+                    │ Scikit-learn        │
+                    │ Supervised Learning │
+                    │ Unsupervised ML     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   DATA SCIENCE      │
+                    │                     │
+                    │ Feature Engineering │
+                    │ Model Evaluation    │
+                    │ End-to-End Projects │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      AI & ML        │
+                    │                     │
+                    │ Deep Learning       │
+                    │ Generative AI       │
+                    │ AI Agents           │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  DATA ENGINEERING   │
+                    │                     │
+                    │ Cloud • Pipelines   │
+                    │ Big Data • Spark    │
+                    │ Data Warehousing    │
+                    └─────────────────────┘
