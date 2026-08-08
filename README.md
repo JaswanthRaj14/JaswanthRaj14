@@ -9,6 +9,7 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
+
 ## 🧑‍💻 About Me
 
 I'm a Computer Science Engineering graduate passionate about
@@ -29,7 +30,7 @@ machine learning, and extracting actionable insights**.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 # 🛠️ Tech Stack
 
-### 🐍 Programming & Data Science
+## 🐍 Programming & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -41,7 +42,7 @@ machine learning, and extracting actionable insights**.
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Data Platforms
+## 🗄️ Databases & Data Platforms
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -50,7 +51,7 @@ machine learning, and extracting actionable insights**.
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 </p>
 
-### 📊 Analytics & Visualization
+## 📊 Analytics & Visualization
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -58,7 +59,7 @@ machine learning, and extracting actionable insights**.
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-### 🔧 Development & Tools
+## 🔧 Development & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -70,6 +71,7 @@ machine learning, and extracting actionable insights**.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
+
 # 🚀 Featured Projects
 
 ## 📊 Customer Sales Analysis
@@ -101,6 +103,7 @@ machine learning, and extracting actionable insights**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
 
+
 # 🚧 Currently Building
 
 ## 📊 SaaS Product Analytics
@@ -129,9 +132,10 @@ machine learning, and extracting actionable insights**.
 > Build a realistic end-to-end SaaS analytics project that demonstrates how raw business data can be transformed into **clean data, meaningful insights, predictive models, and actionable business decisions**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
+
 ### 🏅 Certifications
 
-### ☁️ AWS Academy Graduate — AWS Academy Cloud Foundations
+## ☁️ AWS Academy Graduate — AWS Academy Cloud Foundations
 
 **AWS Academy**
 
@@ -141,7 +145,7 @@ machine learning, and extracting actionable insights**.
 
 ---
 
-### 🤖 Google AI Essentials
+## 🤖 Google AI Essentials
 
 **Google • Coursera**
 
@@ -151,7 +155,7 @@ machine learning, and extracting actionable insights**.
 
 ---
 
-### 📊 Data Analytics and Visualization Job Simulation
+## 📊 Data Analytics and Visualization Job Simulation
 
 **Accenture • Forage**
 
@@ -161,7 +165,7 @@ machine learning, and extracting actionable insights**.
 
 ---
 
-### 📈 Data Analytics Job Simulation
+## 📈 Data Analytics Job Simulation
 
 **Deloitte • Forage**
 
@@ -172,7 +176,7 @@ machine learning, and extracting actionable insights**.
 ---
 
 
-### 📊 Data Visualisation: Empowering Business with Effective Insights
+## 📊 Data Visualisation: Empowering Business with Effective Insights
 
 **Tata • Forage**
 
@@ -182,7 +186,7 @@ machine learning, and extracting actionable insights**.
 
 ---
 
-### 🤖 Machine Learning I
+## 🤖 Machine Learning I
 
 **Columbia+**
 
@@ -192,7 +196,7 @@ machine learning, and extracting actionable insights**.
 
 ---
 
-### 🧠 5-Day AI Agents Intensive Course with Google
+## 🧠 5-Day AI Agents Intensive Course with Google
 
 **Kaggle × Google**
 
@@ -207,7 +211,7 @@ machine learning, and extracting actionable insights**.
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 AI/ML for Geodata Analysis
+## 🌍 AI/ML for Geodata Analysis
 
 Exploring the application of **Artificial Intelligence and Machine Learning techniques to geospatial data and analysis**.
 
@@ -215,7 +219,7 @@ Exploring the application of **Artificial Intelligence and Machine Learning tech
 
 <td width="50%" valign="top">
 
-### 🤖 Oracle Agentic AI Functions
+## 🤖 Oracle Agentic AI Functions
 
 Learning **Oracle's agentic AI capabilities and functions** to understand how AI agents can work with data and applications.
 
@@ -225,7 +229,7 @@ Learning **Oracle's agentic AI capabilities and functions** to understand how AI
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ OCI Foundations Associate
+## ☁️ OCI Foundations Associate
 
 Building foundational knowledge of **Oracle Cloud Infrastructure (OCI)** and cloud concepts.
 
@@ -233,7 +237,7 @@ Building foundational knowledge of **Oracle Cloud Infrastructure (OCI)** and clo
 
 <td width="50%" valign="top">
 
-### 🗄️ MySQL 8.0 Database Administration Professional
+## 🗄️ MySQL 8.0 Database Administration Professional
 
 Strengthening my knowledge of **MySQL 8.0 database administration and management**.
 
@@ -243,7 +247,7 @@ Strengthening my knowledge of **MySQL 8.0 database administration and management
 <tr>
 <td colspan="2" align="center">
 
-### 🧠 Machine Learning & AI Concepts
+## 🧠 Machine Learning & AI Concepts
 
 Strengthening the fundamentals of **Machine Learning, Artificial Intelligence, model development, and intelligent systems**.
 
@@ -252,7 +256,8 @@ Strengthening the fundamentals of **Machine Learning, Artificial Intelligence, m
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
-# 📬 Let's Connect
+
+## 📬 Let's Connect
 
 <div align="center">
 
