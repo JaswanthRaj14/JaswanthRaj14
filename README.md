@@ -270,24 +270,14 @@ Strengthening the fundamentals of **Machine Learning, Artificial Intelligence, m
 <a href="https://github.com/JaswanthRaj14">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/jaswanthrajramjaaly/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:ramjaalyjaswanthraj@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3&section=header" width="100%"/>
-
-<div align="center">
 
 ### 💡 Turning Data Into Insights, One Project at a Time.
 
