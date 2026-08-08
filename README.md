@@ -214,356 +214,71 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 # 🧠 Data & AI Learning Architecture
 
-<div align="center">
+# 🚀 Currently Building
 
-### Building from Data Foundations → Analytics → ML → AI
+## SaaS Product Analytics
 
-</div>
+> **An end-to-end analytics project that transforms SaaS product data into actionable business insights and predictive signals.**
+
+### 🏗️ Project Architecture
 
 ```mermaid
 %%{init: {
   "theme": "base",
   "themeVariables": {
-    "background": "#0B1020",
-    "primaryColor": "#111827",
-    "primaryTextColor": "#F8FAFC",
-    "primaryBorderColor": "#38BDF8",
-    "lineColor": "#64748B",
-    "secondaryColor": "#171D2E",
-    "tertiaryColor": "#1E293B",
-    "fontFamily": "Inter, Segoe UI, sans-serif"
+    "background": "#0D1117",
+    "primaryColor": "#161B22",
+    "primaryTextColor": "#F0F6FC",
+    "primaryBorderColor": "#30363D",
+    "lineColor": "#58A6FF",
+    "secondaryColor": "#161B22",
+    "tertiaryColor": "#161B22",
+    "fontFamily": "Arial"
   },
   "flowchart": {
-    "curve": "basis",
-    "nodeSpacing": 45,
-    "rankSpacing": 60,
-    "padding": 20
+    "curve": "linear",
+    "nodeSpacing": 35,
+    "rankSpacing": 45,
+    "padding": 15
   }
 }}%%
 
-flowchart TB
+flowchart LR
 
-    %% ==============================
-    %% DATA SOURCES
-    %% ==============================
+    A["📥 DATA SOURCES<br/><br/>Users<br/>Subscriptions<br/>Product Events<br/>Transactions"]
 
-    subgraph SOURCE["📥 DATA SOURCES"]
+    B["🗄️ DATA STORAGE<br/><br/>CSV / Excel<br/>MySQL / PostgreSQL<br/>MongoDB"]
 
-        CSV["CSV / Excel<br/>Files"]
+    C["🧹 DATA PREPARATION<br/><br/>Cleaning<br/>Validation<br/>Duplicates<br/>Missing Values<br/>Feature Creation"]
 
-        API["APIs<br/>External Data"]
+    D["🔎 ANALYTICS ENGINE<br/><br/>Python + Pandas<br/>SQL + Statistics<br/>EDA<br/>Product Metrics"]
 
-        PRODUCT["Product & User<br/>Data"]
+    E["📊 BUSINESS INTELLIGENCE<br/><br/>Power BI<br/>KPIs<br/>Retention<br/>Revenue<br/>Churn"]
 
-        DATABASES["Operational<br/>Databases"]
+    F["🤖 PREDICTIVE LAYER<br/><br/>Scikit-learn<br/>Feature Engineering<br/>Churn Prediction<br/>Model Evaluation"]
 
-    end
+    G["🎯 BUSINESS OUTCOMES<br/><br/>Customer Insights<br/>Risk Identification<br/>Growth Opportunities<br/>Data-driven Decisions"]
 
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    D --> F
+    E --> G
+    F --> G
 
-    %% ==============================
-    %% DATA PLATFORM
-    %% ==============================
+    classDef source fill:#172033,stroke:#58A6FF,color:#F0F6FC,stroke-width:2px;
+    classDef storage fill:#172033,stroke:#79C0FF,color:#F0F6FC,stroke-width:2px;
+    classDef process fill:#172033,stroke:#56D4DD,color:#F0F6FC,stroke-width:2px;
+    classDef analytics fill:#211A3A,stroke:#A371F7,color:#F0F6FC,stroke-width:2px;
+    classDef bi fill:#172B26,stroke:#3FB950,color:#F0F6FC,stroke-width:2px;
+    classDef ml fill:#2B1D2F,stroke:#D2A8FF,color:#F0F6FC,stroke-width:2px;
+    classDef outcome fill:#332A12,stroke:#E3B341,color:#F0F6FC,stroke-width:2px;
 
-    subgraph PLATFORM["🗄️ DATA PLATFORM"]
-
-        MYSQL["MySQL"]
-
-        POSTGRES["PostgreSQL"]
-
-        MONGO["MongoDB"]
-
-        BIGQUERY["BigQuery"]
-
-    end
-
-
-    %% ==============================
-    %% DATA ENGINEERING
-    %% ==============================
-
-    subgraph ENGINEERING["⚙️ DATA ENGINEERING & PROCESSING"]
-
-        INGEST["Data Ingestion"]
-
-        CLEAN["Data Cleaning"]
-
-        TRANSFORM["Data Transformation"]
-
-        MODEL["Data Modeling"]
-
-        PIPELINE["Data Pipelines"]
-
-    end
-
-
-    %% ==============================
-    %% DATA SCIENCE
-    %% ==============================
-
-    subgraph SCIENCE["🔬 DATA SCIENCE LAYER"]
-
-        PYTHON["Python"]
-
-        R["R"]
-
-        PANDAS["Pandas"]
-
-        NUMPY["NumPy"]
-
-        EDA["Exploratory<br/>Data Analysis"]
-
-        STATS["Statistics &<br/>Probability"]
-
-    end
-
-
-    %% ==============================
-    %% ANALYTICS
-    %% ==============================
-
-    subgraph ANALYTICS["📊 ANALYTICS & BUSINESS INTELLIGENCE"]
-
-        POWERBI["Power BI"]
-
-        TABLEAU["Tableau"]
-
-        EXCEL["Excel"]
-
-        INSIGHTS["Business<br/>Insights"]
-
-    end
-
-
-    %% ==============================
-    %% CURRENT PROJECT
-    %% ==============================
-
-    subgraph CURRENT["🚀 CURRENT PROJECT — SaaS PRODUCT ANALYTICS"]
-
-        USERS["Users"]
-
-        EVENTS["Product Events"]
-
-        REVENUE["Revenue"]
-
-        RETENTION["Retention"]
-
-        CHURN["Churn"]
-
-        KPI["Product KPIs"]
-
-    end
-
-
-    %% ==============================
-    %% MACHINE LEARNING
-    %% ==============================
-
-    subgraph ML["🤖 MACHINE LEARNING"]
-
-        SKLEARN["Scikit-learn"]
-
-        FEATURE["Feature<br/>Engineering"]
-
-        TRAIN["Model Training"]
-
-        EVALUATE["Model Evaluation"]
-
-        PREDICT["Predictions"]
-
-    end
-
-
-    %% ==============================
-    %% AI
-    %% ==============================
-
-    subgraph AI["✨ AI & INTELLIGENT SYSTEMS"]
-
-        GENAI["Generative AI"]
-
-        AGENTS["AI Agents"]
-
-        AIAPPS["AI-powered<br/>Applications"]
-
-    end
-
-
-    %% ==============================
-    %% DELIVERY
-    %% ==============================
-
-    subgraph DELIVERY["🚀 DEVELOPMENT & DELIVERY"]
-
-        GIT["Git"]
-
-        GITHUB["GitHub"]
-
-        VSCODE["VS Code"]
-
-        PYCHARM["PyCharm"]
-
-        JUPYTER["Jupyter"]
-
-        DATAGRIP["DataGrip"]
-
-    end
-
-
-    %% ==============================
-    %% FLOW — SOURCES
-    %% ==============================
-
-    CSV --> INGEST
-    API --> INGEST
-    PRODUCT --> INGEST
-    DATABASES --> INGEST
-
-
-    %% ==============================
-    %% FLOW — DATABASES
-    %% ==============================
-
-    INGEST --> MYSQL
-    INGEST --> POSTGRES
-    INGEST --> MONGO
-    INGEST --> BIGQUERY
-
-
-    MYSQL --> CLEAN
-    POSTGRES --> CLEAN
-    MONGO --> CLEAN
-    BIGQUERY --> CLEAN
-
-
-    %% ==============================
-    %% PROCESSING
-    %% ==============================
-
-    CLEAN --> TRANSFORM
-    TRANSFORM --> MODEL
-    MODEL --> PIPELINE
-
-
-    %% ==============================
-    %% DATA SCIENCE
-    %% ==============================
-
-    PIPELINE --> PYTHON
-    PIPELINE --> R
-
-    PYTHON --> PANDAS
-    PYTHON --> NUMPY
-
-    PANDAS --> EDA
-    NUMPY --> EDA
-
-    EDA --> STATS
-
-
-    %% ==============================
-    %% ANALYTICS
-    %% ==============================
-
-    EDA --> POWERBI
-    EDA --> TABLEAU
-    EDA --> EXCEL
-
-    POWERBI --> INSIGHTS
-    TABLEAU --> INSIGHTS
-    EXCEL --> INSIGHTS
-
-
-    %% ==============================
-    %% CURRENT PROJECT
-    %% ==============================
-
-    PRODUCT --> USERS
-    PRODUCT --> EVENTS
-    PRODUCT --> REVENUE
-
-    USERS --> RETENTION
-    EVENTS --> RETENTION
-
-    USERS --> CHURN
-    EVENTS --> CHURN
-
-    REVENUE --> KPI
-    RETENTION --> KPI
-    CHURN --> KPI
-
-    KPI --> POWERBI
-
-
-    %% ==============================
-    %% MACHINE LEARNING
-    %% ==============================
-
-    EDA --> FEATURE
-    STATS --> FEATURE
-
-    FEATURE --> SKLEARN
-    SKLEARN --> TRAIN
-    TRAIN --> EVALUATE
-    EVALUATE --> PREDICT
-
-    KPI --> FEATURE
-
-
-    %% ==============================
-    %% AI
-    %% ==============================
-
-    PREDICT --> GENAI
-    PREDICT --> AGENTS
-
-    GENAI --> AIAPPS
-    AGENTS --> AIAPPS
-
-
-    %% ==============================
-    %% DEVELOPMENT
-    %% ==============================
-
-    PYTHON -.-> JUPYTER
-    PYTHON -.-> VSCODE
-    PYTHON -.-> PYCHARM
-
-    MYSQL -.-> DATAGRIP
-    POSTGRES -.-> DATAGRIP
-
-    JUPYTER -.-> GIT
-    VSCODE -.-> GIT
-    PYCHARM -.-> GIT
-    DATAGRIP -.-> GIT
-
-    GIT --> GITHUB
-
-
-    %% ==============================
-    %% STYLING
-    %% ==============================
-
-    classDef source fill:#111827,stroke:#38BDF8,color:#F8FAFC,stroke-width:2px;
-    classDef platform fill:#111827,stroke:#60A5FA,color:#F8FAFC,stroke-width:2px;
-    classDef engineering fill:#111827,stroke:#22D3EE,color:#F8FAFC,stroke-width:2px;
-    classDef science fill:#111827,stroke:#A78BFA,color:#F8FAFC,stroke-width:2px;
-    classDef analytics fill:#111827,stroke:#34D399,color:#F8FAFC,stroke-width:2px;
-    classDef project fill:#172554,stroke:#38BDF8,color:#FFFFFF,stroke-width:3px;
-    classDef ml fill:#1E1B4B,stroke:#C084FC,color:#FFFFFF,stroke-width:2px;
-    classDef ai fill:#2E1065,stroke:#E879F9,color:#FFFFFF,stroke-width:2px;
-    classDef delivery fill:#111827,stroke:#F59E0B,color:#F8FAFC,stroke-width:2px;
-
-    class CSV,API,PRODUCT,DATABASES source;
-    class MYSQL,POSTGRES,MONGO,BIGQUERY platform;
-    class INGEST,CLEAN,TRANSFORM,MODEL,PIPELINE engineering;
-    class PYTHON,R,PANDAS,NUMPY,EDA,STATS science;
-    class POWERBI,TABLEAU,EXCEL,INSIGHTS analytics;
-
-    class USERS,EVENTS,REVENUE,RETENTION,CHURN,KPI project;
-
-    class SKLEARN,FEATURE,TRAIN,EVALUATE,PREDICT ml;
-
-    class GENAI,AGENTS,AIAPPS ai;
-
-    class GIT,GITHUB,VSCODE,PYCHARM,JUPYTER,DATAGRIP delivery;
+    class A source;
+    class B storage;
+    class C process;
+    class D analytics;
+    class E bi;
+    class F ml;
+    class G outcome;
