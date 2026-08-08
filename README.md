@@ -12,9 +12,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science Engineering graduate passionate about **Data Analytics, Data Science, Artificial Intelligence, and Machine Learning**.
+I'm a Computer Science Engineering graduate passionate about
+**Data Analytics, Data Science, Artificial Intelligence, and Machine Learning**.
 
-I enjoy working across the complete data lifecycle — from **data collection and cleaning to exploratory analysis, visualization, statistical analysis, machine learning, and extracting actionable insights**.
+I enjoy working across the complete data lifecycle — from
+**data collection and cleaning to exploratory analysis, visualization,
+statistical analysis, machine learning, and extracting actionable insights**.
 
 - 🎓 Computer Science Engineering — 2022–2026
 - 📊 Passionate about Data Analytics & Data Science
@@ -73,7 +76,7 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 # 🚀 Featured Projects
 
-### 🏀 NBA Data Analysis
+## 🏀 NBA Data Analysis
 
 **Python • Pandas • PostgreSQL • Power BI**
 
@@ -83,11 +86,11 @@ I enjoy working across the complete data lifecycle — from **data collection an
 - Used PostgreSQL for analytical querying.
 - Built interactive Power BI dashboards.
 
-🔗 [View Project](https://github.com/JaswanthRaj14/NBA_Data_Analysis)
+🔗 **[View Project](https://github.com/JaswanthRaj14/NBA_Data_Analysis)**
 
 ---
 
-### 📊 Customer Sales Analysis
+## 📊 Customer Sales Analysis
 
 **Python • Pandas • SQL • Power BI**
 
@@ -97,11 +100,11 @@ I enjoy working across the complete data lifecycle — from **data collection an
 - Created KPIs and interactive visualizations.
 - Generated insights into customer and sales performance.
 
-🔗 [View Project](https://github.com/JaswanthRaj14/Customer_sales_Analysis)
+🔗 **[View Project](https://github.com/JaswanthRaj14/Customer_sales_Analysis)**
 
 ---
 
-### 🗳️ Electoral Participation Risk Intelligence Analysis
+## 🗳️ Electoral Participation Risk Intelligence Analysis
 
 **Python • Pandas • Data Analysis • Power BI**
 
@@ -111,11 +114,11 @@ I enjoy working across the complete data lifecycle — from **data collection an
 - Developed a composite risk-scoring approach.
 - Converted analytical findings into actionable insights.
 
-🔗 [View Project](https://github.com/JaswanthRaj14/Electoral-Participation-Risk-Intelligence-Analysis)
+🔗 **[View Project](https://github.com/JaswanthRaj14/Electoral-Participation-Risk-Intelligence-Analysis)**
 
 ---
 
-### 💳 Credit Card Fraud Detection
+## 💳 Credit Card Fraud Detection
 
 **Python • Pandas • Scikit-learn • Machine Learning**
 
@@ -124,7 +127,7 @@ I enjoy working across the complete data lifecycle — from **data collection an
 - Applied classification techniques.
 - Evaluated model performance using appropriate metrics.
 
-🔗 [View Project](https://github.com/JaswanthRaj14/Credit_Card_Fraud_Detection)
+🔗 **[View Project](https://github.com/JaswanthRaj14/Credit_Card_Fraud_Detection)**
 
 ---
 
@@ -136,7 +139,7 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 📅 February 27, 2025 • 20 Hours
 
-🔗 [Verify Credential](https://www.credly.com/go/nbRlO4bB)
+🔗 **[Verify Credential](https://www.credly.com/go/nbRlO4bB)**
 
 ---
 
@@ -146,7 +149,7 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 📅 February 7, 2025
 
-🔗 [Verify Credential](https://coursera.org/verify/G44QEE6IJQKK)
+🔗 **[Verify Credential](https://coursera.org/verify/G44QEE6IJQKK)**
 
 ---
 
@@ -206,237 +209,78 @@ I enjoy working across the complete data lifecycle — from **data collection an
 
 ---
 
-# 🧭 My Data Science Journey
-
-<h2>🚀 Currently Building</h2>
-
-<h3>📊 SaaS Product Analytics</h3>
-
-<p>
-  An end-to-end analytics project focused on transforming SaaS product data
-  into actionable business insights and predictive intelligence.
-</p>
-
-<br>
-
-<table width="100%" cellpadding="14" cellspacing="8" border="0">
-
-<tr>
-<td colspan="4" align="center" bgcolor="#111827">
-
-<font color="#38BDF8"><b>📊 SaaS PRODUCT ANALYTICS</b></font>
-
-<br>
-
-<sub>
-From raw product data → analytics → predictions → business decisions
-</sub>
-
-</td>
-</tr>
-
-<tr>
-
-<td width="25%" align="center" valign="top" bgcolor="#0F172A">
-
-<font color="#38BDF8"><b>📥 DATA</b></font>
-
-<br><br>
-
-👤 Users<br><br>
-📦 Subscriptions<br><br>
-⚡ Product Events<br><br>
-💳 Transactions
-
-</td>
-
-<td width="25%" align="center" valign="top" bgcolor="#0F172A">
-
-<font color="#60A5FA"><b>🗄️ STORAGE</b></font>
-
-<br><br>
-
-🐘 PostgreSQL<br><br>
-🐬 MySQL<br><br>
-🍃 MongoDB<br><br>
-📄 CSV / Excel
-
-</td>
-
-<td width="25%" align="center" valign="top" bgcolor="#0F172A">
-
-<font color="#22D3EE"><b>🧹 DATA PREPARATION</b></font>
-
-<br><br>
-
-🧽 Data Cleaning<br><br>
-✅ Validation<br><br>
-⚠️ Missing Values<br><br>
-♻️ Duplicates<br><br>
-🔧 Feature Creation
-
-</td>
-
-<td width="25%" align="center" valign="top" bgcolor="#0F172A">
-
-<font color="#A78BFA"><b>🔎 ANALYTICS</b></font>
-
-<br><br>
-
-🐍 Python<br><br>
-🐼 Pandas<br><br>
-🗄️ SQL<br><br>
-📐 Statistics<br><br>
-🔍 EDA
-
-</td>
-
-</tr>
-
-<tr>
-<td colspan="4" align="center">
-
-⬇️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⬇️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⬇️
-
-</td>
-</tr>
-
-<tr>
-
-<td colspan="4" align="center" bgcolor="#111827">
-
-<font color="#34D399"><b>📊 BUSINESS ANALYTICS</b></font>
-
-<br><br>
-
-Revenue &nbsp; • &nbsp;
-Retention &nbsp; • &nbsp;
-Churn &nbsp; • &nbsp;
-Engagement &nbsp; • &nbsp;
-Customer KPIs
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
-
-</td>
-
-</tr>
-
-<tr>
-<td colspan="4" align="center">
-
-⬇️
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%" align="center" valign="top" bgcolor="#111827">
-
-<font color="#C084FC"><b>🤖 MACHINE LEARNING</b></font>
-
-<br><br>
-
-⚙️ Feature Engineering
-
-<br>↓<br>
-
-🧠 Scikit-learn
-
-<br>↓<br>
-
-📈 Churn Prediction
-
-<br>↓<br>
-
-🎯 Model Evaluation
-
-</td>
-
-<td width="50%" align="center" valign="top" bgcolor="#111827">
-
-<font color="#F59E0B"><b>🎯 BUSINESS OUTCOMES</b></font>
-
-<br><br>
-
-👥 Customer Insights
-
-<br>↓<br>
-
-⚠️ Risk Identification
-
-<br>↓<br>
-
-📈 Growth Opportunities
-
-<br>↓<br>
-
-💡 Data-Driven Decisions
-
-</td>
-
-</tr>
-
-<tr>
-<td colspan="4" align="center">
-
-<br>
-
-<font color="#64748B">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</font>
-
-<br><br>
-
-<b>🔄 END-TO-END FLOW</b>
-
-<br><br>
-
-<font color="#38BDF8">
-RAW DATA
-</font>
-
-&nbsp; → &nbsp;
-
-<font color="#22D3EE">
-CLEAN & VALIDATE
-</font>
-
-&nbsp; → &nbsp;
-
-<font color="#A78BFA">
-ANALYZE
-</font>
-
-&nbsp; → &nbsp;
-
-<font color="#34D399">
-INSIGHTS
-</font>
-
-&nbsp; → &nbsp;
-
-<font color="#C084FC">
-PREDICT
-</font>
-
-&nbsp; → &nbsp;
-
-<font color="#F59E0B">
-DECIDE
-</font>
-
-</td>
-</tr>
-
-</table>
-
-<br>
-
-### 🎯 Project Goal
-
-> **Build a realistic SaaS analytics system that demonstrates the complete journey from raw product data to business insights and predictive analytics.**
+# 🚀 Currently Building
+
+## 📊 SaaS Product Analytics
+
+> An end-to-end analytics project focused on transforming SaaS product data into actionable business insights and predictive intelligence.
+
+### 🏗️ Project Architecture
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                        📊 SaaS PRODUCT ANALYTICS                           │
+│                    Raw Data → Insights → Predictions                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+        ┌──────────────────┐
+        │    📥 DATA       │
+        │                  │
+        │ Users            │
+        │ Product Events   │
+        │ Subscriptions    │
+        │ Transactions     │
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │   🗄️ STORAGE    │
+        │                  │
+        │ PostgreSQL       │
+        │ MySQL            │
+        │ MongoDB          │
+        │ CSV / Excel      │
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │  🧹 PREPARATION  │
+        │                  │
+        │ Data Cleaning    │
+        │ Validation       │
+        │ Missing Values   │
+        │ Duplicates       │
+        │ Feature Creation │
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌────────────────────────────┐
+        │      🔎 ANALYTICS          │
+        │                            │
+        │ Python • Pandas • SQL      │
+        │ EDA • Statistics           │
+        └────────────┬───────────────┘
+                     │
+             ┌───────┴────────┐
+             │                │
+             ▼                ▼
+   ┌──────────────────┐  ┌──────────────────┐
+   │ 📊 BI & INSIGHTS │  │ 🤖 MACHINE       │
+   │                  │  │    LEARNING      │
+   │ Revenue          │  │                  │
+   │ Retention        │  │ Feature Eng.     │
+   │ Engagement       │  │ Scikit-learn     │
+   │ Churn             │  │ Churn Prediction │
+   │ Power BI         │  │ Evaluation       │
+   └────────┬─────────┘  └────────┬─────────┘
+            │                     │
+            └──────────┬──────────┘
+                       ▼
+             ┌──────────────────────┐
+             │ 🎯 BUSINESS OUTCOMES │
+             │                      │
+             │ Customer Insights    │
+             │ Risk Identification  │
+             │ Growth Opportunities │
+             │ Data-Driven Decisions│
+             └──────────────────────┘
