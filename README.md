@@ -8,9 +8,7 @@
 
 </div>
 
-<table>
-<tr>
-<td>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
 ## 🧑‍💻 About Me
 
@@ -217,6 +215,7 @@ machine learning, and extracting actionable insights**.
 
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌍 AI/ML for Geodata Analysis
@@ -232,9 +231,11 @@ Exploring the application of **AI and Machine Learning techniques to geospatial 
 Learning **Oracle Agentic AI capabilities and functions** and how they can be applied to intelligent workflows.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### ☁️ OCI Foundations Associate
@@ -250,9 +251,11 @@ Building foundational knowledge of **Oracle Cloud Infrastructure (OCI)** and clo
 Strengthening knowledge of **MySQL 8.0 database administration, configuration, management, and operations**.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td colspan="2" align="center">
 
 ### 🧠 Machine Learning & AI Concepts
@@ -260,6 +263,7 @@ Strengthening knowledge of **MySQL 8.0 database administration, configuration, m
 Strengthening my understanding of **core Machine Learning and Artificial Intelligence concepts**, including model development and intelligent systems.
 
 </td>
+
 </tr>
 </table>
 
@@ -283,7 +287,7 @@ Strengthening my understanding of **core Machine Learning and Artificial Intelli
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -294,7 +298,3 @@ Strengthening my understanding of **core Machine Learning and Artificial Intelli
 **Thanks for visiting my profile! 🚀**
 
 </div>
-
-</td>
-</tr>
-</table>
