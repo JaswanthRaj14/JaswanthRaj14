@@ -129,7 +129,7 @@ machine learning, and extracting actionable insights**.
 > Build a realistic end-to-end SaaS analytics project that demonstrates how raw business data can be transformed into **clean data, meaningful insights, predictive models, and actionable business decisions**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
-# 🏅 Certifications
+### 🏅 Certifications
 
 ### ☁️ AWS Academy Graduate — AWS Academy Cloud Foundations
 
@@ -187,6 +187,9 @@ machine learning, and extracting actionable insights**.
 **Columbia+**
 
 📅 July 29, 2026
+
+`Machine Learning Concepts` • `Algorithms`
+
 ---
 
 ### 🧠 5-Day AI Agents Intensive Course with Google
@@ -194,6 +197,8 @@ machine learning, and extracting actionable insights**.
 **Kaggle × Google**
 
 📅 December 18, 2025
+`AI Agent` • `Work Flow` 
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 # 📚 Currently Learning
