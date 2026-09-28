@@ -106,30 +106,18 @@ machine learning, and extracting actionable insights**.
 
 ## 🚧 Currently Building
 
-### 📊 SaaS Product Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
-> An end-to-end analytics project focused on understanding SaaS user behaviour, product engagement, revenue, retention, and churn — and applying machine learning to generate predictive insights.
+## 🚀 What I'm Working On
 
-### 🔍 What I'm Working On
+### 🤖 Rime — AI/ML Project
+Building an AI/ML solution for the **Rime Hackathon Challenge**, focusing on applying data, machine learning, and intelligent systems to a practical problem.
 
-- 📥 **Create a realistic SaaS dataset** containing users, subscriptions, product events, transactions, and customer information.
-- 🧹 **Perform data cleaning** by handling missing values, duplicates, inconsistent data types, and invalid records.
-- 🔎 **Perform exploratory data analysis (EDA)** to understand user behaviour, product usage, revenue patterns, and customer segments.
-- 📐 **Apply statistical analysis** to identify relationships, trends, and significant patterns in the data.
-- 🗄️ **Work with SQL and databases** to store, query, transform, and analyze the SaaS data.
-- 📊 **Define important SaaS metrics** such as revenue, customer activity, engagement, retention, and churn.
-- 📈 **Build business dashboards** using Power BI to communicate important product and customer insights.
-- 👥 **Analyze customer behaviour** and identify different user segments based on usage and engagement.
-- 🔄 **Analyze retention and churn** to understand why customers stay or leave the product.
-- ⚙️ **Perform feature engineering** to prepare meaningful features for machine learning.
-- 🤖 **Build machine learning models** to predict customer churn and other relevant business outcomes.
-- 📏 **Evaluate and compare models** using appropriate machine learning evaluation metrics.
-- 💡 **Translate analytical and ML results into business recommendations**.
-- 📝 **Document the complete project workflow** from raw data to final insights and predictions.
+### 🏥 Healthcare Data Analytics
+Building a **SQL-focused healthcare analytics project** to analyze patient data, readmission patterns, and generate meaningful healthcare insights.
 
-### 🎯 Project Goal
-
-> Build a realistic end-to-end SaaS analytics project that demonstrates how raw business data can be transformed into **clean data, meaningful insights, predictive models, and actionable business decisions**.
+### ⚙️ Predictive Maintenance & Equipment Failure Prediction
+Building an end-to-end **Machine Learning project** using industrial sensor data to predict equipment failures and explore predictive maintenance.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
@@ -215,14 +203,6 @@ machine learning, and extracting actionable insights**.
 
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
-### 🌍 AI/ML for Geodata Analysis
-
-Exploring the application of **AI and Machine Learning techniques to geospatial data and analysis**.
-
-</td>
 
 <td width="50%" valign="top">
 
