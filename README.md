@@ -106,8 +106,6 @@ machine learning, and extracting actionable insights**.
 
 ## 🚧 Currently Building
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
-
 ## 🚀 What I'm Working On
 
 ### 🤖 Rime — AI/ML Project
