@@ -1,10 +1,21 @@
 <div align="center">
 
-# 👋 Hi, I'm Jaswanth Raj Ramjaaly
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=220&section=header&text=Jaswanth%20Raj%20Ramjaaly&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-### 📊 Data Enthusiast | Data Science | AI & ML
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Data+Enthusiast+%7C+Data+Science+%7C+AI+%26+ML;Turning+Raw+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Exploring+Agentic+AI+%26+Cloud+Architectures;Learning+%7C+Building+%7C+Growing+Every+Day" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=820&lines=Data+Enthusiast+%7C+Data+Science+%7C+AI+%26+ML;Turning+Raw+Data+into+Meaningful+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Real-World+Data+Projects;Learning+%7C+Building+%7C+Improving+Every+Day" alt="Typing SVG"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaswanthrajramjaaly/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ramjaalyjaswanthraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JaswanthRaj14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -12,267 +23,154 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science Engineering graduate passionate about
-**Data Analytics, Data Science, Artificial Intelligence, and Machine Learning**.
+I'm a Computer Science Engineering graduate specializing in **Data Analytics, Data Science, Artificial Intelligence, and Machine Learning**.
 
-I enjoy working across the complete data lifecycle — from **data collection
-and cleaning to exploratory analysis, visualization, statistical analysis,
-machine learning, and extracting actionable insights**.
+My primary focus spans the entire data lifecycle: **collection, transformation, exploratory data analysis, interactive dashboarding, and predictive modeling**. I love translating messy, raw datasets into clean, impactful business decisions.
 
-- 🎓 Computer Science Engineering — 2022–2026
-- 📊 Interested in Data Analytics & Data Science
-- 🐍 Building data projects with Python and its data ecosystem
-- 🗄️ Working with SQL, relational and NoSQL databases
-- 📈 Creating analytical dashboards and data visualizations
-- 🤖 Exploring Machine Learning, AI and Agentic AI
-- 🧠 Continuously learning and building practical projects
+- 🎓 **Education:** B.Tech in Computer Science Engineering (2022–2026)
+- 📊 **Specialization:** Exploratory Data Analysis, BI Dashboards & Statistical Modeling
+- 🤖 **Exploration:** Machine Learning Pipelines & Agentic AI Workflows
+- 💡 **Motto:** Turning data into insights, one project at a time
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 🐍 Programming & Data Science
-
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Data Platforms
-
+### 🗄️ Databases & Cloud Platforms
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
 
-### 📊 Analytics & Visualization
-
+### 📊 Analytics & BI
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### 🔧 Development & Tools
-
+### 🔧 Development & Environments
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"/>
 </p>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
-### 📊 Customer Sales Analysis
-
-**Python • Pandas • SQL • Power BI**
-
-- Analyzed **10,000+ sales records**.
-- Cleaned and transformed raw sales data.
-- Used SQL and Python to identify sales and customer trends.
-- Created business-focused KPIs and visualizations.
-- Built an interactive Power BI dashboard.
-- Generated actionable insights from customer and sales performance.
-
-🔗 **[View Project](https://github.com/JaswanthRaj14/Customer_sales_Analysis)**
-
----
-
-### 💳 Credit Card Fraud Detection
-
-**Python • Pandas • NumPy • Scikit-learn • Machine Learning**
-
-- Built a machine-learning solution for fraud detection.
-- Performed data preprocessing and feature preparation.
-- Applied classification techniques to transaction data.
-- Evaluated model performance using classification metrics.
-- Developed the project as a practical application of machine learning.
-
-🔗 **[View Project](https://github.com/JaswanthRaj14/Credit_Card_Fraud_Detection)**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
-
-## 🚧 Currently Building
-
-## 🚀 What I'm Working On
-
-### 🤖 Rime — AI/ML Project
-Building an AI/ML solution for the **Rime Hackathon Challenge**, focusing on applying data, machine learning, and intelligent systems to a practical problem.
-
-### 🏥 Healthcare Data Analytics
-Building a **SQL-focused healthcare analytics project** to analyze patient data, readmission patterns, and generate meaningful healthcare insights.
-
-### ⚙️ Predictive Maintenance & Equipment Failure Prediction
-Building an end-to-end **Machine Learning project** using industrial sensor data to predict equipment failures and explore predictive maintenance.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Customer Sales Analysis</h3>
+      <p align="center"><code>Python</code> • <code>SQL</code> • <code>Power BI</code> • <code>Data Modeling</code></p>
+      <ul>
+        <li>Processed and normalized over <b>10,000+ sales transaction records</b>.</li>
+        <li>Conducted deep-dive EDA using SQL and Pandas to uncover seasonal trends.</li>
+        <li>Designed an interactive Power BI dashboard tracking revenue, churn, and store KPIs.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/JaswanthRaj14/Customer_sales_Analysis"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💳 Credit Card Fraud Detection</h3>
+      <p align="center"><code>Scikit-Learn</code> • <code>Classification</code> • <code>NumPy</code> • <code>ML</code></p>
+      <ul>
+        <li>Trained supervised classification models to detect anomalous credit transactions.</li>
+        <li>Handled severe class imbalance via sampling and feature engineering.</li>
+        <li>Evaluated performance using Precision-Recall curves, ROC-AUC, and F1-score.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/JaswanthRaj14/Credit_Card_Fraud_Detection"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
-## 🏅 Certifications
+## 🚧 Active Pipelines & In Progress
 
-### ☁️ AWS Academy Graduate — AWS Academy Cloud Foundations
-
-**AWS Academy**
-
-📅 February 27, 2025 • 20 Hours
-
-🔗 **[Verify Credential](https://www.credly.com/go/nbRlO4bB)**
-
----
-
-### 🤖 Google AI Essentials
-
-**Google • Coursera**
-
-📅 February 7, 2025
-
-🔗 **[Verify Credential](https://coursera.org/verify/G44QEE6IJQKK)**
-
----
-
-### 📊 Data Analytics and Visualization Job Simulation
-
-**Accenture • Forage**
-
-📅 January 1, 2025
-
-`Data Cleaning` • `Data Modeling` • `Data Visualization` • `Storytelling`
-
----
-
-### 📈 Data Analytics Job Simulation
-
-**Deloitte • Forage**
-
-📅 February 10, 2026
-
-`Data Analysis` • `Forensic Technology`
-
----
-
-### 📊 Introduction to Career Skills in Data Analytics
-
-**LinkedIn Learning**
-
-📅 January 3, 2025
-
-`Data Analytics` • `Tech Career Skills`
-
----
-
-### 📊 Data Visualisation: Empowering Business with Effective Insights
-
-**Tata • Forage**
-
-📅 January 5, 2025
-
-`Data Visualization` • `Visual Storytelling` • `Business Insights`
-
----
-
-### 🤖 Machine Learning I
-
-**Columbia+**
-
-📅 July 29, 2026
-
----
-
-### 🧠 5-Day AI Agents Intensive Course with Google
-
-**Kaggle × Google**
-
-📅 December 18, 2025
+- 🤖 **Rime — AI/ML Hackathon Solution:** Developing intelligent end-to-end predictive services tackling practical ML challenges.
+- 🏥 **Healthcare Analytics Warehouse:** Building SQL-first queries to analyze patient readmission frequencies, cost drivers, and clinical operations.
+- ⚙️ **Predictive Equipment Failure System:** Training time-series / anomaly models on industrial sensor data to forecast machinery maintenance windows.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
 ## 📚 Currently Learning
 
 <table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Oracle Agentic AI Functions
-
-Learning **Oracle Agentic AI capabilities and functions** and how they can be applied to intelligent workflows.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ☁️ OCI Foundations Associate
-
-Building foundational knowledge of **Oracle Cloud Infrastructure (OCI)** and cloud computing concepts.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗄️ MySQL 8.0 Database Administration Professional
-
-Strengthening knowledge of **MySQL 8.0 database administration, configuration, management, and operations**.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-### 🧠 Machine Learning & AI Concepts
-
-Strengthening my understanding of **core Machine Learning and Artificial Intelligence concepts**, including model development and intelligent systems.
-
-</td>
-
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ AWS Cloud & Architecture</h4>
+      <p>Deepening practical knowledge in <b>AWS S3, EC2, RDS, Lambda, and IAM</b> for deploying scalable data engineering and ML pipelines.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Oracle Agentic AI Functions</h4>
+      <p>Exploring <b>autonomous agent design</b>, multi-step tool-use agents, and intelligent orchestration frameworks.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ OCI Foundations Associate</h4>
+      <p>Mastering core <b>Oracle Cloud Infrastructure</b> compute, storage, virtual cloud networks (VCN), and security paradigms.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ MySQL 8.0 Database Administration</h4>
+      <p>Sharpening production DBA skills: indexing strategies, performance tuning, replication, and backup management.</p>
+    </td>
+  </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
-## 📬 Let's Connect
+## 🏅 Certifications & Simulations
 
-<div align="center">
-
-<a href="https://github.com/JaswanthRaj14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jaswanthrajramjaaly/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:ramjaalyjaswanthraj@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
+| Credential | Issuer / Platform | Date | Verification |
+| :--- | :--- | :--- | :---: |
+| **AWS Academy Cloud Foundations** | AWS Academy | Feb 2025 | [Verify](https://www.credly.com/go/nbRlO4bB) |
+| **Google AI Essentials** | Google • Coursera | Feb 2025 | [Verify](https://coursera.org/verify/G44QEE6IJQKK) |
+| **5-Day AI Agents Intensive Course** | Kaggle × Google | Dec 2025 | — |
+| **Data Analytics & Visualization** | Accenture • Forage | Jan 2025 | Simulation |
+| **Data Visualisation: Business Insights** | Tata • Forage | Jan 2025 | Simulation |
+| **Data Analytics Job Simulation** | Deloitte • Forage | Feb 2026 | Simulation |
+| **Career Skills in Data Analytics** | LinkedIn Learning | Jan 2025 | Completed |
+| **Machine Learning I** | Columbia+ | Jul 2026 | Verified |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
-<div align="center">
+## 📊 GitHub Analytics
 
-### 💡 Turning Data Into Insights, One Project at a Time.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaswanthRaj14&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=94a3b8" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthRaj14&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=94a3b8" height="150" alt="Top Languages" />
+</div>
 
 <br>
 
-**Thanks for visiting my profile! 🚀**
-
+<div align="center">
+  <b>Thanks for dropping by! Feel free to explore my repositories or connect on LinkedIn.</b>
 </div>
