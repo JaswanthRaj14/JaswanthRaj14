@@ -23,15 +23,20 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science Engineering graduate specializing in **Data Analytics, Data Science, Artificial Intelligence, and Machine Learning**.
+I'm a Computer Science Engineering graduate with a strong interest in **Data Analytics, Data Science, and Artificial Intelligence**. I enjoy working with data to understand real-world problems, uncover meaningful patterns, and build solutions that support better decisions.
 
-My primary focus spans the entire data lifecycle: **collection, transformation, exploratory data analysis, interactive dashboarding, and predictive modeling**. I love translating messy, raw datasets into clean, impactful business decisions.
+My work spans the complete data journey — **data preparation, exploratory analysis, statistical thinking, visualization, machine learning, and predictive modeling**. I work primarily with Python and SQL, while also exploring cloud technologies and modern AI.
 
-- 🎓 **Education:** B.Tech in Computer Science Engineering (2022–2026)
-- 📊 **Specialization:** Exploratory Data Analysis, BI Dashboards & Statistical Modeling
-- 🤖 **Exploration:** Machine Learning Pipelines & Agentic AI Workflows
-- 💡 **Motto:** Turning data into insights, one project at a time
+- 🎓 Computer Science Engineering — 2022–2026
+- 📊 Interested in Data Science & Machine Learning
+- 🐍 Building data projects with Python and its data ecosystem
+- 🗄️ Working with SQL, relational and NoSQL databases
+- 📈 Creating analytical dashboards and data visualizations.
+- 🤖 Exploring Machine Learning, AI and Agentic AI
+- ☁️ Building knowledge in AWS Cloud and Oracle Cloud Infrastructure (OCI)
 
+I'm continuously building hands-on projects to strengthen my ability to turn **raw data into insights, insights into predictions, and predictions into practical solutions**.
+ 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
@@ -114,7 +119,7 @@ My primary focus spans the entire data lifecycle: **collection, transformation, 
 ## 🚧 Active Pipelines & In Progress
 
 - 🤖 **Rime — AI/ML Hackathon Solution:** Developing intelligent end-to-end predictive services tackling practical ML challenges.
-- 🏥 **Healthcare Analytics Warehouse:** Building SQL-first queries to analyze patient readmission frequencies, cost drivers, and clinical operations.
+
 - ⚙️ **Predictive Equipment Failure System:** Training time-series / anomaly models on industrial sensor data to forecast machinery maintenance windows.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:06B6D4,100:10B981&height=3&section=header" width="100%"/>
